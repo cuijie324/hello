@@ -1,0 +1,14 @@
+{
+  "name": "@cuijie/hello",
+  "version": "1.0.2",
+  "description": "hello npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "cuijie <yinsu@foxmail.com>",
+  "license": "ISC"
+}
